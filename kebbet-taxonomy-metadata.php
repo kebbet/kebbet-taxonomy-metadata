@@ -16,7 +16,7 @@
 namespace kebbet\taxonomy\metadata;
 
 const TAXONOMY   = 'metadata';
-const POST_TYPES = array( 'post', 'event-archive', 'explore' );
+const POST_TYPES = array( 'post', 'event-archive', 'explore', 'page', 'project' );
 const HIDE_SLUG  = false;
 
 /**
