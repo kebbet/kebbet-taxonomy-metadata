@@ -78,7 +78,7 @@ function register() {
 		'manage_terms' => 'manage_categories', // Previous 'manage_options'.
 		'edit_terms'   => 'manage_categories', // Previous 'manage_options'.
 		'delete_terms' => 'manage_categories', // Previous 'manage_options'.
-		'assign_terms' => 'manage_categories',
+		'assign_terms' => 'publish_posts',
 	);
 
 	$tax_args = array(
