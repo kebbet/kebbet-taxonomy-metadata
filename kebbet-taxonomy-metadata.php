@@ -3,7 +3,7 @@
  * Plugin Name:       Kebbet plugins - custom taxonomy: metadata
  * Plugin URI:        https://github.com/kebbet/kebbet-taxonomy-metadata
  * Description:       Register the custom taxonomy metadata
- * Version:           20210627.01
+ * Version:           20211111.01
  * Author:            Erik Betshammar
  * Author URI:        https://verkan.se
  * Requires at least: 5.7
@@ -89,11 +89,10 @@ function register() {
 		'public'                => false,
 		'show_ui'               => true,
 		'show_admin_column'     => true,
-		'show_in_nav_menus'     => true,
 		'update_count_callback' => '_update_post_term_count',
 		'query_var'             => false,
 		'show_in_rest'          => true,
-		'rewrite'               => array(),
+		'rewrite'               => false,
 		'description'           => __( 'Metadata tag.', 'kebbet-taxonomy-metadata' ),
 	);
 
