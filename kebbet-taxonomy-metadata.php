@@ -8,6 +8,7 @@
  * Author URI:        https://verkan.se
  * Requires at least: 5.7
  * Requires PHP:      7.4
+ * Update URI:        false
  *
  * @package kebbet-taxonomy-metadata
  * @author Erik Betshammar
