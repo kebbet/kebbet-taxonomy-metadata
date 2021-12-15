@@ -1,11 +1,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Kebbet plugins - custom taxonomy: metadata\n"
-"POT-Creation-Date: 2021-12-15 10:26+0100\n"
-"PO-Revision-Date: 2021-12-15 10:27+0100\n"
+"POT-Creation-Date: 2021-12-15 10:28+0100\n"
+"PO-Revision-Date: 2021-12-15 10:32+0100\n"
 "Last-Translator: Erik Betshammar <info@verkan.se>\n"
 "Language-Team: Erik Betshammar <info@verkan.se>\n"
-"Language: sv_SE\n"
+"Language: da_DK\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -24,80 +24,80 @@ msgstr ""
 #: kebbet-taxonomy-metadata.php:58
 msgctxt "taxonomy general name"
 msgid "Metadata"
-msgstr "Metadata"
+msgstr "Meta data"
 
 #: kebbet-taxonomy-metadata.php:59
 msgid "Metadata"
-msgstr "Metadata"
+msgstr "Meta data"
 
 #: kebbet-taxonomy-metadata.php:60
 msgctxt "taxonomy singular name"
 msgid "Metadata"
-msgstr "Metadata"
+msgstr "Meta data"
 
 #: kebbet-taxonomy-metadata.php:61
 msgid "All metadata tags"
-msgstr "Alla metadataetiketter"
+msgstr "Alle meta data-tags"
 
 #: kebbet-taxonomy-metadata.php:62
 msgid "Edit tag"
-msgstr "Redigera etikett"
+msgstr "Rediger tag"
 
 #: kebbet-taxonomy-metadata.php:63
 msgid "View tag"
-msgstr "Visa etikett"
+msgstr "Vis tag"
 
 #: kebbet-taxonomy-metadata.php:64
 msgid "Update tag"
-msgstr "Uppdatera etikett"
+msgstr "Opdater tag"
 
 #: kebbet-taxonomy-metadata.php:65
 msgid "Add new tag"
-msgstr "Lägg till ny etikett"
+msgstr "Tilføj nyt tag"
 
 #: kebbet-taxonomy-metadata.php:66
 msgid "New tag name"
-msgstr "Nytt etikettnamn"
+msgstr "Nyt tagnavn"
 
 #: kebbet-taxonomy-metadata.php:67
 msgid "Separate metadata tags with commas"
-msgstr "Separata metadataetiketter med kommatecken"
+msgstr "Adskil metadata-tag med kommaer"
 
 #: kebbet-taxonomy-metadata.php:68
 msgid "Search tags"
-msgstr "Sök etiketter"
+msgstr "Søg tags"
 
 #: kebbet-taxonomy-metadata.php:69
 msgid "Add or remove tags"
-msgstr "Lägg till eller ta bort etiketter"
+msgstr "Tilføj eller fjern tags"
 
 #: kebbet-taxonomy-metadata.php:70
 msgid "Choose from the most used metadata tags"
-msgstr "Välj bland de mest använda metadataetiketter"
+msgstr "Vælg mellem de mest anvendte metadata-tags"
 
 #: kebbet-taxonomy-metadata.php:71
 msgid "No tags found."
-msgstr "Inga etiketter hittades."
+msgstr "Der blev ikke fundet nogen tags."
 
 #: kebbet-taxonomy-metadata.php:72
 msgid "Popular tags"
-msgstr "Populära etiketter"
+msgstr "Populære tags"
 
 #: kebbet-taxonomy-metadata.php:73
 msgid "Parent tag"
-msgstr "Överordnad etikett"
+msgstr ""
 
 #: kebbet-taxonomy-metadata.php:74
 msgid "Parent tag:"
-msgstr "Överordnad etikett:"
+msgstr ""
 
 #: kebbet-taxonomy-metadata.php:75
 msgid "&larr; Back to tags"
-msgstr "← Tillbaka till etiketter"
+msgstr "← Tilbage til tags"
 
 #: kebbet-taxonomy-metadata.php:76
 msgid "The name is how it appears in the user interface."
-msgstr "Namnet är hur det visas i användargränssnittet."
+msgstr "Navnet er, hvordan det ser ud i brugergrænsefladen."
 
 #: kebbet-taxonomy-metadata.php:77
 msgid ""
@@ -105,18 +105,21 @@ msgid ""
 "lowercase and contains only letters, numbers, and hyphens. Do not change if "
 "not needed."
 msgstr ""
+"”Korttitel” er en desinficeret version af navnet. Den indeholder kun små "
+"bogstaver, tal og bindestreger. Du må ikke ændre, hvis det ikke er "
+"nødvendigt."
 
 #: kebbet-taxonomy-metadata.php:78
 msgid "The description is not used for Dansehallerne."
-msgstr "Beskrivningen används inte för Dansehallerne."
+msgstr "Beskrivelsen bruges ikke til Dansehallerne."
 
 #: kebbet-taxonomy-metadata.php:100
 msgid "Metadata tag."
-msgstr "Metadataetikett."
+msgstr "Metadata tag."
 
 #. Plugin Name of the plugin/theme
 msgid "Kebbet plugins - custom taxonomy: metadata"
-msgstr "Kebbet plugins - anpassad taxonomi: metadata"
+msgstr "Kebbet plugins - brugerdefineret taksonomi: metadata"
 
 #. Plugin URI of the plugin/theme
 msgid "https://github.com/kebbet/kebbet-taxonomy-metadata"
@@ -124,7 +127,7 @@ msgstr "https://github.com/kebbet/kebbet-taxonomy-metadata"
 
 #. Description of the plugin/theme
 msgid "Register the custom taxonomy metadata"
-msgstr "Registrera den anpassade taxonomin metadata"
+msgstr "Registrer det brugerdefinerede taksonomi: metadata"
 
 #. Author of the plugin/theme
 msgid "Erik Betshammar"

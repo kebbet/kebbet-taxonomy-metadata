@@ -73,6 +73,9 @@ function register() {
 		'parent_item'                => __( 'Parent tag', 'kebbet-taxonomy-metadata' ),
 		'parent_item_colon'          => __( 'Parent tag:', 'kebbet-taxonomy-metadata' ),
 		'back_to_items'              => __( '&larr; Back to tags', 'kebbet-taxonomy-metadata' ),
+		'name_field_description'     => __( 'The name is how it appears in the user interface.', 'kebbet-taxonomy-metadata' ),
+		'slug_field_description'     => __( 'The &#8220;slug&#8221; is a sanitized version of the name. It is usually all lowercase and contains only letters, numbers, and hyphens. Do not change if not needed.', 'kebbet-taxonomy-metadata' ),
+		'desc_field_description'     => __( 'The description is not used for Dansehallerne.', 'kebbet-taxonomy-metadata' ),
 	);
 
 	$capabilities = array(
